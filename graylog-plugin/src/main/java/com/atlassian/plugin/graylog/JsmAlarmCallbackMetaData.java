@@ -41,7 +41,7 @@ public class JsmAlarmCallbackMetaData implements PluginMetaData {
 
     @Override
     public Version getRequiredVersion() {
-        return new Version(2, 3, 2);
+        return new Version(2, 2, 0);
     }
 
     @Override
